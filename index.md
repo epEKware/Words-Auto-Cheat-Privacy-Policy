@@ -1,5 +1,3 @@
-# Words Auto Cheat Privacy Policy
-
 This privacy policy governs your use of the software application Words Auto Cheat (“Application”) for mobile devices that was created by epEK.ware, LLC. This privacy policy was last updated on May 23, 2018. Our privacy policy may change from time to time for any reason. If we make any material changes to our policies, we will place a prominent notice on our website or application. If you have any questions or concerns about our privacy policies, feel free to contact us at any time.
 
 We believe that your privacy is important and we won't do anything evil with your data. We currently do not employ any direct automatic user data collection whatsoever, but we do use some third parties that may. Data collected is outlined below:
